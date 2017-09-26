@@ -485,7 +485,7 @@ namespace Constellation
 
                 formGraphics.DrawString("S", largeFont, blueBrush, 80, 70);
                 formGraphics.DrawString("corpius", smallFont, lightBlueBrush, 190, 130);
-                formGraphics.DrawString("By: Max Senez", tinyFont, blackBrush, 130, 210);//
+                formGraphics.DrawString("By: Max Senez", tinyFont, blackBrush, 130, 210);
                 
                 flag += 1;
             }
